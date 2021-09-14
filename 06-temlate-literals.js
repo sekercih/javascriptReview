@@ -13,3 +13,5 @@ olan site emrinde
  ${new Date().getUTCDate} tarihine kar ödeyiniz`;
 
 console.log(info);
+
+console.log(username[4]);
